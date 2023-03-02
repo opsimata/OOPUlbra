@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\bin\Debug\net7.0\class-01.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\bin\Debug\net7.0\class-01.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\bin\Debug\net7.0\class-01.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\bin\Debug\net7.0\class-01.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\bin\Debug\net7.0\class-01.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\refint\class-01.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\class-01.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-01\obj\Debug\net7.0\ref\class-01.dll
