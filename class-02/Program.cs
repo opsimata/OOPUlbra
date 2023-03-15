@@ -6,18 +6,19 @@ internal class Program
     {
         Book bookDB = new Book(1, "9785523039058", "Banco de Dados", 50);
 
-        Print("\nDados do Livro: \n" + bookDB.Id + ", " + bookDB.Isbn + ", " + bookDB.Title + ", " + bookDB.Price);
+        Utilities.Print("\nDados do Livro: \n" + bookDB.Id + ", " + bookDB.Isbn + ", " + bookDB.Title + ", " + bookDB.Price);
 
-    var Scan = Console.ReadLine();
+        Utilities.BreakLine();
 
-    Print(Scan);
+        Utilities.Print("Digite algo: ");
 
-    void Print(string msg){
-        Console.WriteLine(msg);
-    }
+        Utilities.Scan();
 
+        Utilities.BreakLine();
 
+        // Utilities.Print("Algo digitado: ");
 
+        Utilities.Print("informe o calculo desejado:");
 
     }
 }

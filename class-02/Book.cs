@@ -2,11 +2,11 @@ namespace class_02
 {
     public class Book
     {
-        public int Id {get; private set;}
+        public int Id { get; private set; }
 
         public string Isbn { get; private set; }
 
-        public string Title { get; set; }
+        public string Title { get; private set; }
 
         public double Price { get; set; }
 
