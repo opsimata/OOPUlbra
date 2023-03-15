@@ -22,6 +22,7 @@ internal class Program
         Utilities.BreakLine();
         Utilities.BreakLine();
 
+        // Exercício 1
         Utilities.Print("** Calculadora **\nOperações possíveis:\n| Soma: '+' | Subtração: '-' | Divisão: '/' | Multiplicação: '*' |\n\nInforme o cálculo desejado: ");
         string operation = Console.ReadLine();
 
@@ -35,14 +36,32 @@ internal class Program
         Utilities.Print("Informe o segundo número a ser calculado: ");
         double number2 = Convert.ToDouble(Console.ReadLine());
 
-        Calculator Calc1 = new Calculator();
+        Calculator Calc_01 = new Calculator();
 
-        var outcome = Calc1.Process(number1, number2, operation);
+        var outcome = Calc_01.Process(number1, number2, operation);
 
         Utilities.BreakLine();
 
         Utilities.Print("Resultado da operação: " + outcome);
 
         Utilities.BreakLine();
+        Utilities.BreakLine();
+
+        //  Exercício 2
+        Person Person_01 = new Person(22, "Ava");
+        Utilities.Print("Nome: " + Person_01.Name + "\nIdade: " + Person_01.Age);
+
+        Utilities.BreakLine();
+        Utilities.BreakLine();
+
+        // Exercício 3
+        BankAccount Account_01 = new BankAccount();
+        Account_01.Balance = Convert.ToDouble(Console.ReadLine());
+
+        Utilities.Print(Convert.ToString(Account_01.Balance));
+
+        Account_01.Deposit(20);
+
+        Utilities.Print(Convert.ToString(Account_01.Balance));
     }
 }

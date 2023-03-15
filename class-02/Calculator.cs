@@ -31,30 +31,30 @@ namespace class_02
             return result;
         }
 
-        // public double Multiplication(double num1, double num2)
-        // {
-        //     double result = num1 * num2;
+        public double Multiplication(double num1, double num2)
+        {
+            double result = num1 * num2;
 
-        //     return result;
-        // }
+            return result;
+        }
 
-        // public double Division(double num1, double num2)
-        // {
-        //     double result = num1 / num2;
+        public double Division(double num1, double num2)
+        {
+            double result = num1 / num2;
 
-        //     return result;
-        // }
-        // public double Subtraction(double num1, double num2)
-        // {
-        //     double result = num1 - num2;
+            return result;
+        }
+        public double Subtraction(double num1, double num2)
+        {
+            double result = num1 - num2;
 
-        //     return result;
-        // }
-        // public double Sum(double num1, double num2)
-        // {
-        //     double result = num1 + num2;
+            return result;
+        }
+        public double Sum(double num1, double num2)
+        {
+            double result = num1 + num2;
 
-        //     return result;
-        // }
+            return result;
+        }
     }
 }
