@@ -55,21 +55,39 @@ internal class Program
         // Utilities.BreakLine();
 
         // Exercício 3
-        Utilities.Print("Informe o saldo da conta: ");
-        double balance = Convert.ToDouble(Console.ReadLine());
+        Utilities.Print("Informe o número da conta: ");
+        long number = Convert.ToInt64(Console.ReadLine());
 
-        Utilities.Print("Informe o valor de deposito: ");
-        double dpstValue = Convert.ToDouble(Console.ReadLine());
+        BankAccount Account_01 = new BankAccount(number);
 
-        Utilities.Print("Informe o valor de saque: ");
-        double wthdrwValue = Convert.ToDouble(Console.ReadLine());
+        Utilities.Print("Informe a operação desejada: ");
+        int oprtn = Convert.ToInt32(Console.ReadLine());
 
-        BankAccount Account_01 = new BankAccount(balance, dpstValue, wthdrwValue);
+        switch (oprtn)
+        {
+            case 1:
+                Utilities.Print("Informe o valor de deposito: ");
+                double dpstValue = Convert.ToDouble(Console.ReadLine());
+
+                Account_01.Deposit(dpstValue);
+                break;
+
+            case 2:
+                Utilities.Print("Informe o valor de saque: ");
+                double wthdrwValue = Convert.ToDouble(Console.ReadLine());
+
+                Account_01.Withdraw(wthdrwValue);
+                break;
+            default:
+                Utilities.Print("Informe uma operação válida");
+                break;
+        }
 
         Utilities.BreakLine();
 
+        Utilities.Print("Conta número: " + Account_01.Number);
+        Utilities.BreakLine();
         Utilities.Print("Saldo: " + Account_01.Balance);
-
-
+        Utilities.BreakLine();
     }
 }
