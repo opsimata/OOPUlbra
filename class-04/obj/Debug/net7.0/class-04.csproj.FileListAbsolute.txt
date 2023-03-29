@@ -1,0 +1,15 @@
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.csproj.AssemblyReference.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.AssemblyInfoInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.AssemblyInfo.cs
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\bin\Debug\net7.0\class-04.exe
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\bin\Debug\net7.0\class-04.deps.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\bin\Debug\net7.0\class-04.runtimeconfig.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\bin\Debug\net7.0\class-04.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\bin\Debug\net7.0\class-04.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\refint\class-04.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\class-04.genruntimeconfig.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\class-04\obj\Debug\net7.0\ref\class-04.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-01\\class-01.csproj",
-      "projectName": "class-01",
-      "projectPath": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-01\\class-01.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-04\\class-04.csproj",
+      "projectName": "class-04",
+      "projectPath": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-04\\class-04.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-01\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Área de Trabalho\\Ulbra\\Programação Orientada a Objetos\\class-04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
