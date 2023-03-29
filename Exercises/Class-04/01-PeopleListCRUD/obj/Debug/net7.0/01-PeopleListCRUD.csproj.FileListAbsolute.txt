@@ -1,0 +1,15 @@
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\bin\Debug\net7.0\01-PeopleListCRUD.exe
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\bin\Debug\net7.0\01-PeopleListCRUD.deps.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\bin\Debug\net7.0\01-PeopleListCRUD.runtimeconfig.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\bin\Debug\net7.0\01-PeopleListCRUD.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\bin\Debug\net7.0\01-PeopleListCRUD.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.csproj.AssemblyReference.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.AssemblyInfoInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.AssemblyInfo.cs
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\refint\01-PeopleListCRUD.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\01-PeopleListCRUD.genruntimeconfig.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\Class-04\01-PeopleListCRUD\obj\Debug\net7.0\ref\01-PeopleListCRUD.dll

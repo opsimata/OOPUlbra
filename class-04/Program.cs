@@ -44,7 +44,7 @@ internal class Program
 
         BreakLine();
 
-        Print("\nUsando Lambda/Arrow Function:\nLivro com Id 4: " + BookRepository.bookList.Find(x => x.Id == 4).Title);
+        Print("\nUsando Lambda Expression/Arrow Function:\nLivro com Id 4: " + BookRepository.bookList.Find(x => x.Id == 4).Title);
 
         BreakLine();
         BreakLine();
