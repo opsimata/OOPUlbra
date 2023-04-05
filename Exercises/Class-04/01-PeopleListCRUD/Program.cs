@@ -14,7 +14,7 @@ internal class Program
             Console.WriteLine("3. Update person");
             Console.WriteLine("4. Delete person");
             Console.WriteLine("5. Exit");
-            Console.Write("\nType your choise: ");
+            Console.Write("\nType your choice: ");
 
             int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -45,7 +45,7 @@ internal class Program
             Console.WriteLine("\nDo you want to make another operation?");
             Console.WriteLine("1. for YES.");
             Console.WriteLine("2. for NO.");
-            Console.Write("Type your choise: ");
+            Console.Write("Type your choice: ");
 
             string oprt = Console.ReadLine();
 
@@ -66,7 +66,7 @@ internal class Program
                     Console.WriteLine("\nDo you want to make another operation?");
                     Console.WriteLine("1. for YES.");
                     Console.WriteLine("2. for NO.");
-                    Console.Write("Type your choise: ");
+                    Console.Write("Type your choice: ");
 
                     oprt = Console.ReadLine();
                 }

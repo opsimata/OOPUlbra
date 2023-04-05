@@ -4,7 +4,6 @@ namespace _01_PeopleListCRUD
     {
         public static List<Person> peopleList = new List<Person>();
 
-        //Adding Person Object to the object list
         public void CreatePerson()
         {
             Console.Write("\nEnter person ID: ");

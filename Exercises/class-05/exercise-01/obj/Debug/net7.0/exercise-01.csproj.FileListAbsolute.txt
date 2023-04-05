@@ -1,0 +1,15 @@
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\bin\Debug\net7.0\exercise-01.exe
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\bin\Debug\net7.0\exercise-01.deps.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\bin\Debug\net7.0\exercise-01.runtimeconfig.json
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\bin\Debug\net7.0\exercise-01.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\bin\Debug\net7.0\exercise-01.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.csproj.AssemblyReference.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.AssemblyInfoInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.AssemblyInfo.cs
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\refint\exercise-01.dll
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.pdb
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\exercise-01.genruntimeconfig.cache
+C:\Users\pedro\Área de Trabalho\Ulbra\Programação Orientada a Objetos\Exercises\class-05\exercise-01\obj\Debug\net7.0\ref\exercise-01.dll
