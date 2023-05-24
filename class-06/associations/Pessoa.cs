@@ -10,7 +10,7 @@ namespace associations
         public int Id { get; set; }
         public string Nome { get; protected set; }
         public City City { get; set; }
-        public List<Endereco> Enderecos { get; set; }
+        public List<Endereco> Enderecos { get; set; } // Composição: Pessoa possui lista de endereços.
 
         public Pessoa(int id, string nome, City city)
         {
