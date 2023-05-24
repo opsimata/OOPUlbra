@@ -18,6 +18,8 @@ namespace associations // Note: actual namespace depends on the project name.
             // }
 
             PessoaFisica fisica = new PessoaFisica(1231, "Silva", city, "832942948302"); // Herança
+
+            Console.WriteLine(fisica.City.Nome);
         }
     }
 }
