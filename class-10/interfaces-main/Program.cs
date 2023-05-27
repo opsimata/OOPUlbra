@@ -1,28 +1,10 @@
-﻿// Definindo a interface IItemEstoque
-public interface IItemEstoque
-{
-    void Vender();
-    void Devolver();
-}
+﻿using interfaces_main;
 
-// Implementando a interface em uma classe
-public class Roupa : IItemEstoque
-{
-    public void Vender()
-    {
-        // Implementação específica para vender roupas
-    }
+// Exemplo de uso
+var loja = new Loja();
+var roupa = new Roupa();
+var calcado = new Calcado();
 
-    public void Devolver()
-    {
-        // Implementação específica para devolver roupas
-    }
-}
-
-// Usando a classe Roupa com a interface IItemEstoque
-public class Loja
-{
-    private List<IItemEstoque> _itensEmEstoque;
-
-    public void AdicionarItem(Roupa item); //problema de acoplamento aqui
-}
+loja.AdicionarItem(roupa);
+loja.AdicionarItem(calcado);
+loja.VenderItem(0);
