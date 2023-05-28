@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ORMtest.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230527120418_addProducts")]
-    partial class addProducts
+    [Migration("20230528013219_FirstMigration")]
+    partial class FirstMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
