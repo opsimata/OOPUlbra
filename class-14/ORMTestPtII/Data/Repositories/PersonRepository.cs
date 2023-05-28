@@ -46,7 +46,8 @@ namespace Data.Repositories
         }
         public void Update(Person entity)
         {
-            throw new NotImplementedException();
+            context.People.Update(entity);
+            context.SaveChanges();
         }
     }
 }

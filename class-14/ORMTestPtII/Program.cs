@@ -13,7 +13,7 @@ var loop = 1;
 
 ListPeople();
 
-// Adicionando pessoas a base de dados "People"
+// Adicionando registros a base de dados "People"
 #region
 Console.WriteLine("Add a new person on the database?\nType '1' for yes.\nType '2' for no.");
 Console.Write("Type your choice: ");
@@ -48,10 +48,10 @@ else
 // personRepository.Save(person); // Salva pessoa no banco de dados via repositorio person
 #endregion
 
-// Procurando pessoas na base de dados "People"
+// Procurando registros na base de dados "People"
 #region
 
-Console.WriteLine("Search a person on the database?\nType '1' for yes.\nType '2' for no.");
+Console.WriteLine("Search for a person on the database?\nType '1' for yes.\nType '2' for no.");
 Console.Write("Type your choice: ");
 choice = Convert.ToInt32(Console.ReadLine());
 if (choice == 1)
@@ -79,7 +79,7 @@ else
 }
 #endregion
 
-// Deletando pessoas da base de dados "People"
+// Deletando registros da base de dados "People"
 #region
 Console.WriteLine("Delete a person from the database?\nType '1' for yes.\nType '2' for no.");
 Console.Write("Type your choice: ");
@@ -96,7 +96,44 @@ else
 }
 #endregion
 
-// Menu para printar no console a base de dados "People"
+// Atualizando registros da base de dados "People"
+#region
+loop = 1;
+Console.WriteLine("Update a person's data on the database?\nType '1' for yes.\nType '2' for no.");
+Console.Write("Type your choice: ");
+choice = Convert.ToInt32(Console.ReadLine());
+
+if (choice == 1)
+{
+    do
+    {
+        Console.Write("\nType the ID of the person's data you're updating: ");
+        int alterByID = Convert.ToInt32(Console.ReadLine());
+        var personDataAlter = personRepository.GetById(alterByID);
+        Console.WriteLine();
+        Console.WriteLine("Updating person data...");
+        Console.Write($"Person ID: {personDataAlter.Id}\n");
+        Console.Write($"Current name: {personDataAlter.Name}\nType the new name: ");
+        personDataAlter.Name = Console.ReadLine();
+        Console.Write($"Current phone number: {personDataAlter.PhoneNumber}\nType the new phone number: ");
+        personDataAlter.PhoneNumber = Console.ReadLine();
+        personRepository.Update(personDataAlter);
+        Console.WriteLine("\nalter another's person data on the database?\nType '1' for yes.\nType '2' for no.");
+        Console.Write("Type your choice: ");
+        loop = Convert.ToInt32(Console.ReadLine());
+        if (loop == 2)
+        {
+            Console.WriteLine();
+        }
+    } while (loop == 1);
+}
+else
+{
+    Console.WriteLine();
+}
+#endregion
+
+// Menu para printar registros da base de dados "People"
 #region
 Console.WriteLine("Show people table again?\nType '1' for yes.\nType '2' for no.");
 Console.Write("Type your choice: ");
