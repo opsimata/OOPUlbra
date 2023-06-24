@@ -1,7 +1,6 @@
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace Data
 {
     public class DataContext : DbContext
@@ -9,6 +8,7 @@ namespace Data
         public string DbPath { get; }
         public DbSet<Person> People { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<City> Cities { get; set; }
 
         public DataContext()
         {

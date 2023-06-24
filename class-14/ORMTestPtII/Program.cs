@@ -15,7 +15,7 @@ ListPeople();
 
 // Adicionando registros a base de dados "People"
 #region
-Console.WriteLine("Add a new person on the database?\nType '1' for yes.\nType '2' for no.");
+Console.WriteLine("Add a new person to the database?\nType '1' for yes.\nType '2' for no.");
 Console.Write("Type your choice: ");
 var choice = Convert.ToInt32(Console.ReadLine());
 
@@ -160,7 +160,7 @@ void ListPeople()
     Console.WriteLine("\nPeople list:");
     foreach (var item in people) // Lista as pessoas salvas no banco em print na tela
     {
-        Console.WriteLine($"ID: {item.Id} | Name: {item.Name} | Phone Number: {item.PhoneNumber}");
+        Console.WriteLine($"ID: {item.Id} | Name: {item.Name} | Phone Number: {item.PhoneNumber} | City: ");
     }
     Console.Write("\n");
 }

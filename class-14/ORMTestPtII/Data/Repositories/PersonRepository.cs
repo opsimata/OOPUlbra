@@ -1,5 +1,6 @@
 using Domain.Entities;
 using Domain.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Repositories
 {
@@ -14,14 +15,15 @@ namespace Data.Repositories
 
         public IList<Person> GetAll()
         {
-            return context.People.ToList();
+            return context.People.Include(x => x.City).ToList();
         }
         public Person GetById(int entityId)
         {
-            return context.People.SingleOrDefault(x => x.Id == entityId); // === Select All From *People* Where ID == Parsed ID.
+            return context.People.Include(x => x.City).SingleOrDefault(x => x.Id == entityId); // === Select All From *People* Where ID == Parsed ID.
         }
         public void Save(Person entity) //Create on DB
         {
+            entity.City = context.Cities.Find(entity.City.Id);
             context.Add(entity);
             context.SaveChanges();
         }
